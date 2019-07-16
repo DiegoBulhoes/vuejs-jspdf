@@ -1,4 +1,5 @@
 # vuejs-jspdf
+Exemplo de uso do módulo [jspdf](https://www.npmjs.com/package/jspdf).
 
 ## Project setup
 ```
